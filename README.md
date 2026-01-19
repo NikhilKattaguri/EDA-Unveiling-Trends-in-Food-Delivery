@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-Unveiling-Trends-in-Food-Delivery
+# Exploratory Data Analysis: Unveiling Trends in Food Delivery
 Performed comprehensive **exploratory data analysis (EDA)** on food delivery data to identify trends in orders, customer behavior, delivery performance, and operational factors influencing the food delivery ecosystem.
 
 ---
