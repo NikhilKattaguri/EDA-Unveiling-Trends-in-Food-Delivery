@@ -1,0 +1,1 @@
+A predictive model has been created in this project to forecast food delivery times more accurately. We cleaned and analyzed a Kaggle dataset to identify factors that impact delivery performance, such as vehicle type, weather, and traffic.
